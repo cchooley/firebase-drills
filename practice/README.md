@@ -1,6 +1,6 @@
 # Static Site Deployment
 
-This Deploying a Static Website on Firebase
+These instructions will lead you through how to deploy a static website on firebase
 
 ## Instructions
 
