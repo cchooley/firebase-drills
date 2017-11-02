@@ -1,1 +1,1 @@
-[ ] Site is live at the link provided
+* [ ] Site is live at the link provided
